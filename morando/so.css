@@ -1,0 +1,77 @@
+
+img.icones {
+	height: 20px;
+	width: 20px;
+}
+input.form-control{
+	height:25px;
+	width: 35px;
+}
+
+img.logo {
+	padding:5px;
+}
+
+p.p{
+	padding: 5px;
+	color: #DF0174;
+
+} 
+.rosa {
+	margin-left: 0px;
+	margin-right: 100px;
+	width: 1350px;
+	height: 500px;
+}
+
+.capturas{
+	padding:10px;
+} 
+
+.titulos {
+	padding:35px;
+	color: #B4045F;
+}
+
+img.cuide{
+	height:700px;
+	width: 600px;
+	margin-left: 35px;
+} 
+p.p2 {
+	margin-left: 35px;
+	font-size: 18px;
+}
+
+div.card{
+	height:308px;
+	width: 800px;
+	margin-left: 35px;
+
+}
+
+img.mail{
+	height:90px;
+	width: 100px;
+}
+
+div.bla {
+	padding: 15px;
+}
+
+div.form-group {
+	width: 550px;
+
+}
+
+img.sobre {
+	width: 900px;
+	height: 550px;
+	margin-left: 35px;
+}
+
+.btn {
+	width: 105px;
+	padding: 5px;
+	background-color:#F5A9D0;
+}
